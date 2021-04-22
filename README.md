@@ -4,4 +4,6 @@ Digital –Automatic Attendance System for education campus: Attendance in the e
 
 
 -It is desktop app developed using Python Language and OpenCV module.
+-------------------------------------------------
+
 -Its main purpose is to take images from a dedicated camera and recognize it using Image processing technique.
